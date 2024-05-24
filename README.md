@@ -1,4 +1,4 @@
-# London-Air-Pollution
+# London Air Pollution Visualisation
 
 This project aims to analyze air quality data in London using data fetched from the London Air API. The project demonstrates the use of API calls, SQL for data storage and retrieval, data analysis, and visualization techniques. The data covers air quality indices for various pollutants across different locations in London over a specified period.
 
