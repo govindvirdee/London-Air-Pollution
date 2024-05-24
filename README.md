@@ -2,6 +2,8 @@
 
 This project aims to analyze air quality data in London using data fetched from the London Air API. The project demonstrates the use of API calls, SQL for data storage and retrieval, data analysis, and visualization techniques. The data covers air quality indices for various pollutants across different locations in London over a specified period.
 
+Check out the initial visualisation [here](https://govindvirdee.github.io/London-Air-Pollution/monitoring_sites_map.html) showing the data collection sites, colour coded by site type. 
+
 ## Data Fetching
 The data is fetched from the [London Air API](https://www.londonair.org.uk/LondonAir/API/) for a specified period. The fetch_air_quality_data function retrieves data for a given date, and the fetch_period_data function aggregates this data for the entire period.
 
